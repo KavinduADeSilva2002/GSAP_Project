@@ -15,9 +15,37 @@ html, body{
 #page{
     position: relative;
     height: 100vh;
-    width: 100%;
+    width: 100vw;
     background-color: antiquewhite;
 }
+
+#page1{
+    position: relative;
+    height: 100vh;
+    width: 100vw;
+    background-color: antiquewhite;
+}
+
+#page2{
+    position: relative;
+    height: 100vh;
+    width: 100vw;
+    background-color: antiquewhite;
+}
+
+#page3{
+    position: relative;
+    height: 100vh;
+    width: 100vw;
+    background-color: antiquewhite;
+}
+canvas{
+    position: relative;
+    z-index: 9;
+    max-width: 100vw;
+    max-height: 100vh;
+}
+
 #loop{
     display:flex;
     position: absolute;
@@ -35,6 +63,12 @@ html, body{
     animation-duration: 20s;
     animation-iteration-count: infinite;
     animation-timing-function: linear;
+}
+
+#loop>h1>span{
+    -webkit-text-stroke: 1.2px black;
+    color: transparent;
+    font-weight: 500;
 }
 @keyframes loops{
     0%{
