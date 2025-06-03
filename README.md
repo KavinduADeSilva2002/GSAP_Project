@@ -32,12 +32,11 @@ This project demonstrates a UI interface enhanced with GSAP (GreenSock Animation
 - The typing animation is sequential and timed using `gsap.timeline()`.
 - Animations are responsive and adapt to different screen sizes.
 
-
 ## 📷 Preview
-![Screenshot 2025-06-03 151259](https://github.com/user-attachments/assets/0a1ea1e7-09c6-42a0-9afe-3f79c956bf2e)
-![Screenshot 2025-06-03 151311](https://github.com/user-attachments/assets/a8a547bb-0a02-47e4-b3fe-5a66b8ec1a6c)
-![Screenshot 2025-06-03 151321](https://github.com/user-attachments/assets/91cf8e8f-52b3-4d09-ab37-55c6450aa2c0)
 
+![Screenshot 2025-06-03 165108](https://github.com/user-attachments/assets/e03f72ed-b867-4bcb-ab20-20808b7d2264)
+![Screenshot 2025-06-03 165119](https://github.com/user-attachments/assets/3647d776-9f1f-4eb0-a925-912338dfbbbe)
+![Screenshot 2025-06-03 165133](https://github.com/user-attachments/assets/d9d2d7bf-99a3-40ee-8ef9-74ce4b9d9eed)
 
 
 ## 📁 Project Structure
