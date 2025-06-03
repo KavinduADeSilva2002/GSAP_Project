@@ -93,7 +93,7 @@ canvas{
     top: 62%;
     font-family: Gilroy;
     font-weight:400;
-    color:#0000;
+    color:#000;
     left: 30%;
     line-height: 30px;
 }
@@ -116,7 +116,7 @@ canvas{
 #nav>button{
     padding: 10px 20px;
     border-radius: 50px;
-    background-color: #0000;
+    background-color: #000;
     color: #fff;
     
 }
