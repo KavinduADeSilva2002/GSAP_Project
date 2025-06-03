@@ -1,6 +1,6 @@
-# GSAP Chat Animation Project
+# GSAP Animation Project
 
-This project demonstrates a chat interface enhanced with GSAP (GreenSock Animation Platform) animations. It showcases modern web animation techniques to create a smooth and visually engaging chat experience.
+This project demonstrates a UI interface enhanced with GSAP (GreenSock Animation Platform) animations. It showcases modern web animation techniques to create a smooth and visually engaging experience.
 
 ## 💡 Features
 
